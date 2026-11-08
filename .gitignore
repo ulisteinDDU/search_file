@@ -1,0 +1,13 @@
+# Build artifacts
+build/
+*.o
+*.res
+*.exe
+*.obj
+
+# Runtime state (contains local paths)
+FileSearchTool.ini
+selftest_result.txt
+
+# ZCode workspace data
+.zcode/
